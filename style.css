@@ -30,7 +30,12 @@ tr:nth-child(1) {
     margin: 20px 0; 
 }
 
-img, video {
-    width: 200px; 
-    height: 200px; 
+img{
+    width: 200px; /*200*/
+    height: 200px; /*200*/
+}
+
+video {
+    width: 640px; /*200*/
+    height: 480px; /*200*/
 }
